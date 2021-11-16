@@ -14,6 +14,7 @@ A terraform module for creating a product in API mgmt
 | description | Description of the Operation | string | `""` | 
 | method | RESTful method | string |  n/a | 
 | url\_template | Template for the request URL | string |  n/a | 
+| xml\_content | XML Content of the Operation Policy | string | n/a |
 
 ## Outputs
 

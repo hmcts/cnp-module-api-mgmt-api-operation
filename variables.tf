@@ -36,3 +36,9 @@ variable "description" {
   description = "Operation Description"
   default     = ""
 }
+
+
+variable "xml_content" {
+  type        = string
+  description = "XML Operation Content"
+}
