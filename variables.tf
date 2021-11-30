@@ -11,7 +11,7 @@ variable "operation_id" {
   description = "Operations ID"
   default     = ""
 }
-variable "api_mgmt_api_name" {
+variable "api_name" {
   type        = string
   description = "API Name"
 }
