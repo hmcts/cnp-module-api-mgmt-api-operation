@@ -1,6 +1,6 @@
 # cnp-module-api-mgmt-api-operation
 
-A terraform module for creating a API Operations in an APIM
+A terraform module for creating an API Operations in API Management
 
 ## Inputs
 
